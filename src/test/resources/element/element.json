@@ -1,0 +1,25 @@
+{
+  "ele": "//button[@class='add-to-basket']",
+  "divKapat": "//div[@class='modal-close']",
+  "cerezKabul": "//button[@id='onetrust-accept-btn-handler']",
+  "arama": "//input[@data-testid='suggestion']",
+  "urun": "//div[@class='p-card-wrppr with-campaign-view']",
+  "indikatorYildiz": "//div[@class='pr-in-ratings']//div[@class='tooltip-indicator']//div[@class='rating-line-wrapper']",
+  "degerlendirme": "//span[@class='total-review-count']",
+  "soruCevap": "//span[@class='answered-questions-count']",
+  "favori": "//span[@class='favorite-count']",
+  "sepeteEkle": "//button[@class='add-to-basket']",
+  "sepeteEkleBasarili":"//div[@class='add-to-basket-button-text-success']",
+  "sepetim":"//a[@class='link account-basket']",
+  "sepetiOnayla":"//a[@class='ty-link-btn-primary' and contains(@href, 'odeme')]",
+  "girisHesap":"//div[@class='pb-guest-order-flow-modal-title']",
+  "uyeOlmadanGiris":"//button[contains(@class, 'ty-font-w-semi-bold') and text()='Üye Olmadan Devam Et']",
+  "adresLayer":"//span[contains(@class, 'ty-text ty-color-black ty-font-lg')]",
+  "adres":"//textarea[@name='addressLine']",
+  "degerlendirmeTikla":"//div[@class='rvw-cnt']//a",
+  "yorumlar":"//div[@class='comment-text']"
+
+
+
+
+}
